@@ -1,0 +1,1 @@
+During mt week one of learning, I explored using Haiper and VIdoz online to create text to image and face swap AI respectivelly.
